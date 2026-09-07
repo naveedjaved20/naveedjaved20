@@ -1,6 +1,6 @@
 # Hi, I'm Naveed Javed 👋
 
-### Senior Front-End Engineer | React & Next.js Specialist
+### Senior Full-Stack Engineer | React/Next.js | Node.js/Express.js | Nest.js | JavaScript/TypeScript | MongoDb Specialist
 
 I'm a Software Engineer with 4+ years of experience building scalable, high-performance web applications and digital products used by businesses and customers worldwide.
 
